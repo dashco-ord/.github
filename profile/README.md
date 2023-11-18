@@ -1,4 +1,4 @@
-<img width="100%" alt="Frame 1" src="https://github.com/dashco-ord/.github/assets/44837950/e3bfaf97-8b47-4178-96dd-f4998dc05bea">
+<img width="100%" alt="Frame 1(1)" src="https://github.com/dashco-ord/.github/assets/44837950/771bf0a7-2ff8-4ea4-ad24-df8bcc898601">
 <br/>
 <br/>
 A in Highly customized student performance monitor made specificly for colleges with Teacher Guardian scheme in mind
