@@ -1,6 +1,6 @@
 
 <img width="100%" alt="Frame 1" src="https://github.com/dashco-ord/.github/assets/44837950/e3bfaf97-8b47-4178-96dd-f4998dc05bea">
-A in Highly customized student performance monitor made specificly for colleges with TG scheme in mind
+A in Highly customized student performance monitor made specificly for colleges with Teacher Guardian scheme in mind
 
 ### What is this project about ? 
 In a nutshell, Dashcord is a student performance monitor for Teacher Guardian scheme at our college
